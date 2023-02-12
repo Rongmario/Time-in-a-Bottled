@@ -61,6 +61,9 @@ repositories {
     maven {
         url = 'https://repo.spongepowered.org/maven'
     }
+    maven {
+        url = 'https://www.cursemaven.com'
+    }
 }
 
 dependencies {
@@ -71,7 +74,10 @@ dependencies {
     if (project.use_mixins.toBoolean()) {
         compile 'zone.rong:mixinbooter:7.0'
     }
-    
+
+    // Modular Machinery ~ Controllers
+    deobfCompile 'curse.maven:modular-machinery-270790:2761302'
+
 }
 
 sourceSets {
