@@ -5,10 +5,10 @@
   "description": "Hacks tiles that don't support tick acceleration, to be tick accelerated.",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "",
+  "url": "https://github.com/Rongmario/Time-in-a-Bottled",
   "updateUrl": "",
   "authorList": ["Rongmario"],
-  "logoFile": "",
+  "logoFile": "assets/timeinabottled/icon.png",
   "screenshots": [],
   "dependencies": []
 }
