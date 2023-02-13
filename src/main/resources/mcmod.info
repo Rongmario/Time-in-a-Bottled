@@ -1,14 +1,13 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "timeinabottled",
+  "name": "Time in a Bottled",
+  "description": "Hacks tiles that don't support tick acceleration, to be tick accelerated.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["CleanroomMC"],
-  "credits": "Authors of this project",
+  "authorList": ["Rongmario"],
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
