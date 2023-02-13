@@ -6,5 +6,6 @@ import net.minecraftforge.common.config.Config;
 public class Configuration {
 
     public static boolean modularMachinery = true;
+    public static boolean gregtech = true;
 
 }

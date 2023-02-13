@@ -75,9 +75,12 @@ dependencies {
         compile 'zone.rong:mixinbooter:7.0'
     }
 
-    // Random Things - Time in a Bottle (Testing, not a dependency)
+    // CodeChickenLib ~ Dependency for GregTech
+    deobfCompile 'curse.maven:codechicken-lib-1-8-242818:2779848'
+    // Random Things ~ Time in a Bottle (Testing, not a dependency)
     deobfCompile 'curse.maven:random-things-59816:2905241'
-
+    // GregTech ~ Machines
+    deobfCompile 'curse.maven:gregtech-ce-unofficial-557242:4390983'
     // Modular Machinery ~ Controllers
     deobfCompile 'curse.maven:modular-machinery-270790:2761302'
 

@@ -10,7 +10,7 @@ public class TimeInABottledMixinLoader implements ILateMixinLoader {
 
     @Override
     public List<String> getMixinConfigs() {
-        return Lists.newArrayList(retrieveConfigName("modularmachinery"));
+        return Lists.newArrayList(retrieveConfigName("gregtech"), retrieveConfigName("modularmachinery"));
     }
 
     @Override
