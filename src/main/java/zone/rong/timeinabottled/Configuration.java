@@ -7,5 +7,6 @@ public class Configuration {
 
     public static boolean modularMachinery = true;
     public static boolean gregtech = true;
+    public static boolean valkyrieLib = true;
 
 }
