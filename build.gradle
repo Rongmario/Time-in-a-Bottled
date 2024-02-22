@@ -83,6 +83,8 @@ dependencies {
     deobfCompile 'curse.maven:gregtech-ce-unofficial-557242:4390983'
     // Modular Machinery ~ Controllers
     deobfCompile 'curse.maven:modular-machinery-270790:2761302'
+    // Environmental Tech ~ Controllers
+    deobfCompile 'curse.maven:valkyrielib-245480:2691542'
 
 }
 

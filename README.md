@@ -8,3 +8,5 @@ This mod allows tile entities that aren't tick accelerable to be tick accelerabl
 **1. Modular Machinery: Controllers**
 
 **2. GregTech CEu: Machines**
+
+**3. Environmental Tech: Controllers**
